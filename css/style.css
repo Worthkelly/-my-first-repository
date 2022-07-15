@@ -1,4 +1,91 @@
+h1,p
+{
+    text-align: center;
+    
+}
+
+ul{
+    background-color:black;
+    margin: 20px 0px 20px;
+    display: flex;
+    
+    
+}
+
+a{
+    color: white;
+}
+li{
+    margin: 7px ;
+    
+}
+li:last-child{
+    margin-left: auto;
+}
+#Oyaa{
+    width: 900px
+}
+#Egoo{
+    width: 320px
+}
+
+
+.mère{
+    display: flex;
+    
+}
+
+.aside{
+    margin: 0px 30px;
+}
+.article1{
+    border: 20px white solid;
+    background-color: white;
+}
+.article2{
+    border: 20px white solid;
+    background-color: white;
+}
+body{
+    background-color: grey;
+}
+.about{
+    border: 15px white solid;
+    background-color: white;
+}
+.post{
+    border: 15px white solid;
+    background-color: white;
+}
+
+
+header{
+    border: 10px white solid;
+    background-color: white;
+}
+
+
+li:hover{
+    background-color: brown;
+    scale: 350%;
+
+}
+a:active{
+    background-color: brown;
+}
 
 
 
 
+    
+    
+
+
+
+
+
+    
+    
+
+
+    

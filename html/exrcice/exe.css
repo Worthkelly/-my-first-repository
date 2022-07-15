@@ -1,0 +1,33 @@
+.umutwe{
+    background-color: red;
+    border: 20px red solid;
+    font-size: 20px;
+}
+img{
+    width: 300px;
+}
+.umutumba{
+    border: 30px white solid;
+    background-color: white;
+
+}
+.oya{
+    display: flex;
+}
+.amaguru{
+    border-top: red solid;
+}
+.yeah{
+    background-color: red;
+    border: 1px red solid;
+    margin: 2px 0px 0px;
+    
+}
+.iyindi{
+    width: 20px;
+    height: 10px;
+    border-radius: 20px;
+    position: absolute;
+    top: 5px;
+}
+
