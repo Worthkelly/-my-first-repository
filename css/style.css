@@ -1,91 +1,106 @@
-h1,p
-{
+h1,
+p {
     text-align: center;
-    
+
 }
 
-ul{
-    background-color:black;
+ul {
+    background-color: black;
     margin: 20px 0px 20px;
     display: flex;
-    
-    
+
+
 }
 
-a{
+.principal {
+    display: flex;
+}
+
+.premier,
+.deux {
+    width: 50%;
+}
+
+a {
     color: white;
 }
-li{
-    margin: 7px ;
-    
+
+li {
+    margin: 7px;
+
 }
-li:last-child{
+
+li:last-child {
     margin-left: auto;
 }
-#Oyaa{
+
+#Oyaa {
     width: 900px
 }
-#Egoo{
+
+#Egoo {
     width: 320px
 }
 
 
-.mère{
+.mère {
     display: flex;
-    
+
 }
 
-.aside{
+.aside {
     margin: 0px 30px;
 }
-.article1{
+
+.article1 {
     border: 20px white solid;
     background-color: white;
 }
-.article2{
+
+.article2 {
     border: 20px white solid;
     background-color: white;
 }
-body{
+
+body {
     background-color: grey;
 }
-.about{
+
+.about {
     border: 15px white solid;
     background-color: white;
 }
-.post{
+
+.post {
     border: 15px white solid;
     background-color: white;
 }
 
 
-header{
+header {
     border: 10px white solid;
     background-color: white;
 }
 
 
-li:hover{
+li:hover {
     background-color: brown;
     scale: 350%;
 
 }
-a:active{
+
+a:active {
     background-color: brown;
 }
 
 
 
 
-    
-    
+.ol {
+    border: 2px;
+}
 
-
-
-
-
-    
-    
-
-
-    
+.Hampande {
+    font-size: 30px;
+    color: blue;
+}
